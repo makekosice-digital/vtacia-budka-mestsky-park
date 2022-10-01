@@ -9,9 +9,22 @@ Grantová výzva zverejnená Nadáciou Východoslovenskej energetiky (Nadácia V
 ### __Partneri projektu__
 
 ![Partner Antik](assets/antik.png)
-![Partner Antik](assets/nadaciaVSElogo.jpg)
+![Partner VSE](assets/nadaciaVSElogo.jpg)
+OZ novozem
+![Partner Make Košice Digital](assets/mkd.png)
 
 
+### __Napísali o projekte__
+
+TASR - Teraz.sk: [Do života vtáctva môžu Košičania nazrieť prostredníctvom smart búdky](https://www.teraz.sk/spravy/do-zivota-vtactva-mozu-kosicania-n/663308-clanok.html)
+
+Mesto Košice: [Slávnostné predstavenie smart vtáčej búdky](https://www.kosice.sk/galeria/foto/slavnostne-predstavenie-smart-vtacej-budky)
+
+Ahoj.TV: [KOŠIČANIA NAZRÚ DO SÚKROMIA VTÁČIKOV VĎAKA SMART BÚDKE](https://www.ahoj.tv/clanky/clanok/8977/kosicania-nazru-do-sukromia-vtacikov-vdaka-smart-budke/)
+
+TV Košice: [Predstavili projekt "Pomôžme našim okrídleným susedom“](https://www.tvkosice.sk/video/6336cf8c94d3c79f0215dc5d)
+
+Košice dnes: [V Košiciach rozmiestnili viac ako 100 búdok pre vtáčie druhy a netopiere](https://kosicednes.sk/spravy/slovensko/kosice/v-kosiciach-rozmiestnili-viac-ako-100-budok-pre-vtacie-druhy-a-netopiere-foto/)
 
 ### __Ako búdka funguje?__
 
