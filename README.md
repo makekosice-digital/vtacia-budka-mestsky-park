@@ -4,7 +4,13 @@
 
 Grantová výzva zverejnená Nadáciou Východoslovenskej energetiky (Nadácia VSE) spojila [Správu mestskej zelene v Košiciach](https://www.smsz.sk/?m_it=false) (SMsZ), [Technickú univerzitu v Košiciach](https://www.tuke.sk/) (TUKE) prostredníctvom [Univerzitného vedeckého parku Technicom](https://www.uvptechnicom.sk/) (UVP Technicom) a [občianske združenie Novozem](http://novozem.sk/) v snahe ponúknuť zaujímavú inováciu spojenú s podporou rozvoja biodiverzity. Výsledkom spolupráce je projekt s názvom Pomôžme našim okrídleným susedom, ktorý získal nenávratnú podporu vo výške takmer 5000 eur a bola dofinancovaná zo zdrojov SMsZ sumou takmer 1000 eur. V rámci projektových aktivít sa v meste rozmiestnilo 75 búdok pre vtáčie druhy hniezdiace v dutinách, 30 búdok pre netopiere, skonštruovala sa smart búdka s kamerou a senzormi, osem škôl navštívili ornitológia, ktorí v s spolupráci so žiakmi zhotovili a vyvesili vtáčie búdky v areáloch škôl. S odborníkmi v oblasti ornitológie a chiropterológie sme organizovali tri podujatia pre širokú verejnosť aj vzdelávacie aktivity pre našich zamestnancov. Zaujímavosťou je, že búdky sa na stromy upevňovali neinváznym spôsobom bez poškodenia stromov, a to pomocou popruhov.
 
-![Projektova foto](budka.png)
+![Projektova foto](assets/budka.png)
+
+### __Partneri projektu__
+
+![Partner Antik](assets/Antik_Telecom_Logo.png =x60)
+
+
 
 ### __Ako búdka funguje?__
 
