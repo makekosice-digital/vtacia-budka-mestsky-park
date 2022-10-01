@@ -9,6 +9,7 @@ Grantová výzva zverejnená Nadáciou Východoslovenskej energetiky (Nadácia V
 ### __Partneri projektu__
 
 ![Partner Antik](assets/antik.png)
+![Partner Antik](assets/nadaciaVSElogo.jpg)
 
 
 
